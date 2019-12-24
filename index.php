@@ -15,7 +15,7 @@
 function kinoshita($i, $max = 100)
 {
     if ($i % 15 === 0) {
-        echo '木舌."\n"', PHP_EOL;
+        echo '木舌\n', PHP_EOL;
     } elseif ($i % 3 === 0) {
         echo '木', PHP_EOL;
     } elseif ($i % 5 === 0) {
@@ -31,6 +31,5 @@ function kinoshita($i, $max = 100)
 
 kinoshita(1);
 ?>
-test2
   </body>
 </html>
