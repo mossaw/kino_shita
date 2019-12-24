@@ -10,6 +10,11 @@
     <script src="bootstrap/js/bootstrap.min.js"></script>
   </head>
   <body>
+
+<div class="alert alert-success" role="alert">
+  以下は木舌関数 kinoshita() を使用しています
+</div>
+
 <?php
 
 function kinoshita($i, $max = 100)
