@@ -31,6 +31,6 @@ function kinoshita($i, $max = 100)
 
 kinoshita(1);
 ?>
-test2
+test
   </body>
 </html>
