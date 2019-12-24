@@ -15,7 +15,7 @@
 function kinoshita($i, $max = 100)
 {
     if ($i % 15 === 0) {
-        echo '木舌<br />', PHP_EOL;
+        echo '<button type="button" class="btn btn-success">木舌</button><br />', PHP_EOL;
     } elseif ($i % 3 === 0) {
         echo '木', PHP_EOL;
     } elseif ($i % 5 === 0) {
