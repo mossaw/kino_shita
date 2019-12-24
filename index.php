@@ -37,4 +37,8 @@ function kinoshita($i, $max = 100)
 kinoshita(1);
 ?>
   </body>
+
+<footer>
+  <small>Copyright (C) 2019 Taeko Taraba All Rights Reserved.</small>
+</footer>
 </html>
